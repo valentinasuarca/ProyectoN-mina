@@ -37,7 +37,7 @@ Abrir [http://localhost:3000](http://localhost:3000)
 - **Backend Legacy**: Java, Swing, NetBeans
 - **Componentes**: shadcn/ui, Radix UI
 
-## Estructura
+## Estructura del proyecto
 
 \`\`\`
 proyecto-nomina/
