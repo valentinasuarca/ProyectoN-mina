@@ -42,19 +42,33 @@ Abrir [http://localhost:3000](http://localhost:3000)
 \`\`\`
 proyecto-nomina/
 ├── app/                     # App Router de Next.js
+
 │   ├── globals.css         # Estilos globales
+
 │   └── layout.tsx          # Layout principal
+
 ├── components/             # Componentes React
+
 │   ├── ui/                # Componentes shadcn/ui
+
 │   └── theme-provider.tsx # Proveedor de temas
+
 ├── hooks/                 # Custom hooks
+
 ├── lib/                   # Utilidades
+
 ├── public/                # Archivos estáticos
+
 ├── login_basico/          # Sistema Java Legacy
+
 │   ├── src/              # Código fuente Java
+
 │   │   ├── login.java    # Sistema de autenticación
+
 │   │   └── panel_control.java # Panel principal
+
 │   └── nbproject/        # Configuración NetBeans
+
 └── package.json          # Dependencias Node.js
 \`\`\`
 
